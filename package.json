@@ -1,0 +1,39 @@
+{
+  "name": "__APP_NAME_58397D59__",
+  "version": "1.0.0",
+  "description": "__DESCRIPTION_87A106F6__",
+  "main": "src/index.js",
+  "scripts": {
+    "create-project-symlink": "scripts/create-project-symlink.sh",
+    "lint": "eslint src",
+    "postinstall": "npm run create-project-symlink",
+    "test": "mocha -r babel-register --recursive src/tests --timeout 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/__GITHUB_USER_7F71C1C7__/__APP_NAME_58397D59__.git"
+  },
+  "keywords": [__KEYWORDS_7072626B__],
+  "author": "__AUTHOR_43D5B693__",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/__GITHUB_USER_7F71C1C7__/__APP_NAME_58397D59__/issues"
+  },
+  "homepage": "https://github.com/__GITHUB_USER_7F71C1C7__/__APP_NAME_58397D59__#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-core": "^6.24.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.0",
+    "babel-register": "^6.24.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "chai-subset": "^1.5.0",
+    "dirty-chai": "^1.2.2",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-improved": "^2.1.0",
+    "mocha": "^3.2.0",
+    "sinon": "^2.1.0",
+    "sinon-as-promised": "^4.0.3",
+    "sinon-chai": "^2.9.0"
+  }
+}

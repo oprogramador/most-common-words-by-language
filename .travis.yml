@@ -1,0 +1,13 @@
+sudo: false
+language: node_js
+node_js:
+  - 6
+  - node
+script:
+  - npm install
+  - npm run lint
+  - npm test
+notifications:
+  email:
+    on_success: never
+    on_failure: always
