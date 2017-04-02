@@ -11,3 +11,7 @@ sed -i "s/__KEYWORDS_7072626B__/$KEYWORDS/g" `git ls-files`
 sed -i "s/__AUTHOR_43D5B693__/$AUTHOR/g" `git ls-files`
 mv _README.md README.md
 rm generate.sh
+git remote set-url origin https://github.com/$GITHUB_USER/$APP_NAME.git
+git add .
+git commit -m 'generation'
+git push -u origin master
