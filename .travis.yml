@@ -1,5 +1,7 @@
 sudo: false
 language: node_js
+env:
+  - APP_DIR=src
 node_js:
   - 6
   - node

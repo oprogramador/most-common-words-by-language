@@ -2,11 +2,13 @@
   "name": "__APP_NAME_58397D59__",
   "version": "1.0.0",
   "description": "__DESCRIPTION_87A106F6__",
-  "main": "src/index.js",
+  "main": "build/index.js",
   "scripts": {
+    "build": "rm -rf build && babel src --out-dir build --ignore tests",
     "create-project-symlink": "scripts/create-project-symlink.sh",
     "lint": "eslint src",
     "postinstall": "npm run create-project-symlink",
+    "prepublish": "npm run build",
     "test": "mocha -r babel-register --recursive src/tests --timeout 5000"
   },
   "repository": {
