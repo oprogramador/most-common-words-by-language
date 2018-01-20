@@ -1,0 +1,8 @@
+/*
+!/build
+!/scripts
+
+*.log
+*.swo
+*.swp
+.DS_Store

@@ -7,4 +7,4 @@ cd ..
 path=node_modules/__APP_NAME_58397D59__
 mkdir -p node_modules
 rm -f $path
-ln -s ../src $path
+ln -s ../${APP_DIR:=build} $path
