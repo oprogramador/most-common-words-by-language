@@ -4,7 +4,7 @@
   "description": "__DESCRIPTION_87A106F6__",
   "main": "build/index.js",
   "scripts": {
-    "build": "rm -rf build && babel src --out-dir build --ignore tests",
+    "build": "rm -rf build && babel src --out-dir build --ignore tests/",
     "create-project-symlink": "scripts/create-project-symlink.sh",
     "lint": "eslint src",
     "postinstall": "npm run create-project-symlink",
