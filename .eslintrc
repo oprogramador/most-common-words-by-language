@@ -1,3 +1,8 @@
 {
-  "extends": "eslint-config-airbnb-improved"
+  "extends": "eslint-config-airbnb-improved",
+  "settings": {
+    "import/resolver": {
+      "babel-module": {}
+    }
+  }
 }

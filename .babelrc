@@ -1,3 +1,13 @@
 {
-  "plugins": ["transform-es2015-modules-commonjs"]
+  "plugins": [
+    "transform-es2015-modules-commonjs",
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "__APP_NAME_58397D59__": "./src",
+        }
+      }
+    ]
+  ]
 }

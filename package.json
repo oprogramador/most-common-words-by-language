@@ -5,9 +5,7 @@
   "main": "build/index.js",
   "scripts": {
     "build": "rm -rf build && babel src --out-dir build --ignore tests/",
-    "create-project-symlink": "scripts/create-project-symlink.sh",
     "lint": "eslint src",
-    "postinstall": "npm run create-project-symlink",
     "prepublishOnly": "npm run build",
     "test": "mocha -r babel-register --recursive src/tests --timeout 5000"
   },
@@ -25,6 +23,7 @@
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-core": "^6.24.0",
+    "babel-plugin-module-resolver": "^3.0.0",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.24.0",
     "babel-register": "^6.24.0",
     "chai": "^3.5.0",
@@ -33,6 +32,7 @@
     "dirty-chai": "^1.2.2",
     "eslint": "^3.19.0",
     "eslint-config-airbnb-improved": "^2.1.0",
+    "eslint-import-resolver-babel-module": "^4.0.0",
     "mocha": "^3.2.0",
     "sinon": "^2.1.0",
     "sinon-as-promised": "^4.0.3",
