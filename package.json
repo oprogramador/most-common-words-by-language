@@ -4,7 +4,7 @@
   "description": "__DESCRIPTION_87A106F6__",
   "main": "build/index.js",
   "scripts": {
-    "build": "rm -rf build && babel src --out-dir build --ignore tests/",
+    "build": "rm -rf build && babel --copy-files src --out-dir build --ignore tests/",
     "lint": "eslint src",
     "prepublishOnly": "npm run build",
     "test": "mocha -r babel-register --recursive src/tests --timeout 5000"
