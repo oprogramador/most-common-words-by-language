@@ -13,7 +13,16 @@
     "type": "git",
     "url": "git+https://github.com/oprogramador/most-common-words-by-language.git"
   },
-  "keywords": ["list", "most", "common", "frequent", "words", "word", "language", "languages],
+  "keywords": [
+    "list",
+    "most",
+    "common",
+    "frequent",
+    "words",
+    "word",
+    "language",
+    "languages"
+  ],
   "author": "oprogramador",
   "license": "MIT",
   "bugs": {
