@@ -18,6 +18,16 @@ getWordsList('french', 200); // returns 200 most common French words
 getWordsList('spanish'); // returns 10000 (10000 is the default and max value) most common Spanish words
 ```
 
+### findWord
+```js
+const { findWord } = require('most-common-words-by-language');
+
+// returns an object informing about the position of a given word
+// in the ranks of the most common words by language (starting from the 1 index)
+findWord('angeles');
+// returns { english: 1788, spanish: 2770 }
+```
+
 ## Sources
 English:
 - https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english.txt
