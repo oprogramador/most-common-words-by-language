@@ -1,6 +1,6 @@
 {
   "name": "most-common-words-by-language",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "List of the most common words in many languages",
   "main": "build/index.js",
   "scripts": {
@@ -38,6 +38,7 @@
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
     "chai-subset": "^1.5.0",
+    "chai-subset-in-order": "^2.1.2",
     "dirty-chai": "^1.2.2",
     "eslint": "^3.19.0",
     "eslint-config-airbnb-improved": "^2.1.0",

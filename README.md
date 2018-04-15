@@ -7,6 +7,17 @@
 [![NPM status](https://nodei.co/npm/most-common-words-by-language.png?downloads=true&stars=true)](https://npmjs.org/package/most-common-words-by-language
 )
 
+
+## Usage
+
+### getList
+```js
+const { getList } = require('most-common-words-by-language');
+
+getList('french', 200); // returns 200 most common French words
+getList('spanish'); // returns 10000 (10000 is the default and max value) most common Spanish words
+```
+
 ## Sources
 English:
 - https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english.txt
