@@ -1,7 +1,7 @@
 {
-  "name": "__APP_NAME_58397D59__",
+  "name": "most-common-words-by-language",
   "version": "1.0.0",
-  "description": "__DESCRIPTION_87A106F6__",
+  "description": "List of the most common words in many languages",
   "main": "build/index.js",
   "scripts": {
     "build": "rm -rf build && babel --copy-files src --out-dir build --ignore tests/",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/__GITHUB_USER_7F71C1C7__/__APP_NAME_58397D59__.git"
+    "url": "git+https://github.com/oprogramador/most-common-words-by-language.git"
   },
-  "keywords": [__KEYWORDS_7072626B__],
-  "author": "__AUTHOR_43D5B693__",
+  "keywords": ["list", "most", "common", "frequent", "words", "word", "language", "languages],
+  "author": "oprogramador",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/__GITHUB_USER_7F71C1C7__/__APP_NAME_58397D59__/issues"
+    "url": "https://github.com/oprogramador/most-common-words-by-language/issues"
   },
-  "homepage": "https://github.com/__GITHUB_USER_7F71C1C7__/__APP_NAME_58397D59__#readme",
+  "homepage": "https://github.com/oprogramador/most-common-words-by-language#readme",
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-core": "^6.24.0",

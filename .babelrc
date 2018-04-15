@@ -5,7 +5,7 @@
       "module-resolver",
       {
         "alias": {
-          "__APP_NAME_58397D59__": "./src",
+          "most-common-words-by-language": "./src",
         }
       }
     ]

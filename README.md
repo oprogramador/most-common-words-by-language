@@ -1,19 +1,8 @@
-# node-app-generator
+# most-common-words-by-language
 
-NodeJS apps and NPM libraries generator.
-It works on Linux and Darwin, possibly it could work on Windows with GOW (Gnu on Windows) installed.
+[![MIT License](https://img.shields.io/badge/license-mit-green.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.org/oprogramador/most-common-words-by-language.svg?branch=master)](https://travis-ci.org/oprogramador/most-common-words-by-language
+)
 
-## run
-### bash
-```
-git clone https://github.com/oprogramador/node-app-generator.git
-cd node-app-generator
-GITHUB_USER=your_github_user TRAVIS_USER=your_travis_user APP_NAME=your_app_name DESCRIPTION=your_description KEYWORDS=your_keywords AUTHOR=your_name ./generate.sh
-```
-
-### fish
-```
-git clone https://github.com/oprogramador/node-app-generator.git
-cd node-app-generator
-env GITHUB_USER=your_github_user TRAVIS_USER=your_travis_user APP_NAME=your_app_name DESCRIPTION=your_description KEYWORDS=your_keywords AUTHOR=your_name ./generate.sh
-```
+[![NPM status](https://nodei.co/npm/most-common-words-by-language.png?downloads=true&stars=true)](https://npmjs.org/package/most-common-words-by-language
+)
