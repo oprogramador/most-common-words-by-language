@@ -6,3 +6,6 @@
 
 [![NPM status](https://nodei.co/npm/most-common-words-by-language.png?downloads=true&stars=true)](https://npmjs.org/package/most-common-words-by-language
 )
+
+## Sources
+English - https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english.txt
