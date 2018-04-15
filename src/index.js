@@ -1,6 +1,6 @@
-import getList from 'most-common-words-by-language/getList';
+import getWordsList from 'most-common-words-by-language/getWordsList';
 
 export {
-  getList,
+  getWordsList,
 };
 export default null;

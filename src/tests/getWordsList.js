@@ -1,9 +1,9 @@
 import expect from 'most-common-words-by-language/tests/expect';
-import getList from 'most-common-words-by-language/getList';
+import getWordsList from 'most-common-words-by-language/getWordsList';
 
-describe('getList', () => {
+describe('getWordsList', () => {
   it('returns 3 most common English words', () => {
-    const result = getList('english', 3);
+    const result = getWordsList('english', 3);
 
     expect(result).to.deep.equal([
       'the',
@@ -13,7 +13,7 @@ describe('getList', () => {
   });
 
   it('returns 5 most common Spanish words', () => {
-    const result = getList('spanish', 5);
+    const result = getWordsList('spanish', 5);
 
     expect(result).to.deep.equal([
       'que',
@@ -25,7 +25,7 @@ describe('getList', () => {
   });
 
   it('returns 10000 most common French words without passing the count', () => {
-    const result = getList('french');
+    const result = getWordsList('french');
 
     expect(result).to.have.length(10000);
     expect(result).to.containSubsetInOrder([
