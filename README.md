@@ -9,3 +9,4 @@
 
 ## Sources
 English - https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english.txt
+French - https://en.wiktionary.org/wiki/Wiktionary:French_frequency_lists/1-2000
