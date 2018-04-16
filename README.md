@@ -39,6 +39,10 @@ French:
 - https://en.wiktionary.org/wiki/Wiktionary:French_frequency_lists/6001-8000
 - https://en.wiktionary.org/wiki/Wiktionary:French_frequency_lists/8001-10000
 
+German:
+- https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/German_frequency_list-1-5000
+- https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/German_frequency_list-5001-10000
+
 Spanish:
 - https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/Spanish_frequency_list-1-5000
 - https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/Spanish_frequency_list-5001-10000
