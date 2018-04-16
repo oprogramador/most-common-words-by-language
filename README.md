@@ -60,6 +60,9 @@ Esperanto:
 Estonian:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/et/et_50k.txt
 
+Farsi:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/fa/fa_50k.txt
+
 French:
 - https://en.wiktionary.org/wiki/Wiktionary:French_frequency_lists/1-2000
 - https://en.wiktionary.org/wiki/Wiktionary:French_frequency_lists/2001-4000
