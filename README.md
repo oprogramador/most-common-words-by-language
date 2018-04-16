@@ -63,6 +63,9 @@ Estonian:
 Farsi:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/fa/fa_50k.txt
 
+Finnish:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/fi/fi_50k.txt
+
 French:
 - https://en.wiktionary.org/wiki/Wiktionary:French_frequency_lists/1-2000
 - https://en.wiktionary.org/wiki/Wiktionary:French_frequency_lists/2001-4000
