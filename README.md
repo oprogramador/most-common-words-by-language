@@ -57,6 +57,9 @@ English:
 Esperanto:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/eo/eo_50k.txt
 
+Estonian:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/et/et_50k.txt
+
 French:
 - https://en.wiktionary.org/wiki/Wiktionary:French_frequency_lists/1-2000
 - https://en.wiktionary.org/wiki/Wiktionary:French_frequency_lists/2001-4000
