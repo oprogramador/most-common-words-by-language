@@ -149,3 +149,6 @@ Spanish:
 
 Swedish:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/sv/sv_50k.txt
+
+Thai:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/th/th_50k.txt
