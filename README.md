@@ -90,10 +90,13 @@ Hungarian:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/hu/hu_50k.txt
 
 Italian:
-https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/it/it_full.txt
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/it/it_full.txt
 
 Indonesian:
-https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/id/id_50k.txt
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/id/id_50k.txt
+
+Japanese:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/ja/ja_50k.txt
 
 Spanish:
 - https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/Spanish_frequency_list-1-5000
