@@ -155,3 +155,6 @@ Thai:
 
 Turkish:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/tr/tr_50k.txt
+
+Ukrainian:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/uk/uk_50k.txt
