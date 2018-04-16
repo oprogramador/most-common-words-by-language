@@ -24,6 +24,7 @@ const { findWord } = require('most-common-words-by-language');
 
 // returns an object informing about the position of a given word
 // in the ranks of the most common words by language (starting from the 1 index)
+// the case is ignored
 findWord('angeles');
 // returns { english: 1788, spanish: 2770 }
 ```

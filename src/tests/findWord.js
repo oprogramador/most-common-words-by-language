@@ -16,22 +16,14 @@ describe('findWord', () => {
     });
   });
 
-  it('finds a word in two languages', () => {
-    const result = findWord('angeles');
+  it('finds a word in many language and ignores case', () => {
+    const result = findWord('chance');
 
     expect(result).to.deep.equal({
-      english: 1788,
-      spanish: 2770,
-    });
-  });
-
-  it('finds a word in three languages', () => {
-    const result = findWord('a');
-
-    expect(result).to.deep.equal({
-      english: 5,
-      french: 16,
-      spanish: 4,
+      english: 1885,
+      french: 1317,
+      german: 573,
+      spanish: 5506,
     });
   });
 });

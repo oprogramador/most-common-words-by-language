@@ -7,7 +7,7 @@ function findWord(word) {
     {},
     ...Object.entries(allWords)
       .map(([name, words]) => {
-        const foundIndex = words.findIndex(w => w === word);
+        const foundIndex = words.findIndex(w => w.toLowerCase() === word.toLowerCase());
 
         return foundIndex >= 0 ? { [name]: foundIndex + 1 } : {};
       }),
