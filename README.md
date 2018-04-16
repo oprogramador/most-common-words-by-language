@@ -48,6 +48,9 @@ Catalan:
 Czech:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/cs/cs_50k.txt
 
+Danish:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/da/da_50k.txt
+
 English:
 - https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english.txt
 
