@@ -152,3 +152,6 @@ Swedish:
 
 Thai:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/th/th_50k.txt
+
+Turkish:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/tr/tr_50k.txt
