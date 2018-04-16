@@ -48,6 +48,9 @@ Bengali:
 Catalan:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/ca/ca_50k.txt
 
+Chinese:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/zh/zh_50k.txt
+
 Czech:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/cs/cs_50k.txt
 
