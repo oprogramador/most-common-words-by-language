@@ -39,6 +39,9 @@ Arabic:
 Bulgarian:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/bg/bg_50k.txt
 
+Bengali:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/bn/bn_50k.txt
+
 English:
 - https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english.txt
 
