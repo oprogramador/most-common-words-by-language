@@ -16,7 +16,7 @@ describe('findWord', () => {
     });
   });
 
-  it('finds a word in many language and ignores case', () => {
+  it('finds a word in many languages and ignores case', () => {
     const result = findWord('chance');
 
     expect(result).to.deep.equal({
