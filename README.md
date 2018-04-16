@@ -131,6 +131,9 @@ Romanian:
 Russian:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/ru/ru_50k.txt
 
+Slovak:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/sk/sk_50k.txt
+
 Spanish:
 - https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/Spanish_frequency_list-1-5000
 - https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/Spanish_frequency_list-5001-10000
