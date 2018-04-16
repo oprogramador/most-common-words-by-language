@@ -119,6 +119,9 @@ Macedonian:
 Norwegian:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/no/no_50k.txt
 
+Polish:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/pl/pl_50k.txt
+
 Spanish:
 - https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/Spanish_frequency_list-1-5000
 - https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/Spanish_frequency_list-5001-10000
