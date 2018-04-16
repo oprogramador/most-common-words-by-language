@@ -140,6 +140,9 @@ Slovak:
 Slovenian:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/sl/sl_50k.txt
 
+Serbian:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/sr/sr_50k.txt
+
 Spanish:
 - https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/Spanish_frequency_list-1-5000
 - https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/Spanish_frequency_list-5001-10000
