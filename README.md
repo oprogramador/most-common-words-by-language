@@ -80,6 +80,9 @@ German:
 Greek:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/el/el_50k.txt
 
+Hebrew:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/he/he_50k.txt
+
 Italian:
 https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/it/it_full.txt
 
