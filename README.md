@@ -33,6 +33,9 @@ findWord('angeles');
 Afrikaans:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/af/af_50k.txt
 
+Arabic:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/ar/ar_50k.txt
+
 English:
 - https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english.txt
 
