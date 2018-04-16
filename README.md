@@ -158,3 +158,6 @@ Turkish:
 
 Ukrainian:
 - https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/uk/uk_50k.txt
+
+Vietnamese:
+- https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2016/vi/vi_50k.txt
