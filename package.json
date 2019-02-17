@@ -30,22 +30,22 @@
   },
   "homepage": "https://github.com/oprogramador/most-common-words-by-language#readme",
   "devDependencies": {
-    "babel-cli": "^6.24.0",
-    "babel-core": "^6.24.0",
-    "babel-plugin-module-resolver": "^3.0.0",
-    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.0",
-    "babel-register": "^6.24.0",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "babel-register": "^6.26.0",
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
-    "chai-subset": "^1.5.0",
+    "chai-subset": "^1.6.0",
     "chai-subset-in-order": "^2.1.2",
     "dirty-chai": "^1.2.2",
     "eslint": "^3.19.0",
-    "eslint-config-airbnb-improved": "^2.1.0",
+    "eslint-config-airbnb-improved": "^2.3.0",
     "eslint-import-resolver-babel-module": "^4.0.0",
-    "mocha": "^3.2.0",
-    "sinon": "^2.1.0",
+    "mocha": "^3.5.3",
+    "sinon": "^2.4.1",
     "sinon-as-promised": "^4.0.3",
-    "sinon-chai": "^2.9.0"
+    "sinon-chai": "^2.14.0"
   }
 }
