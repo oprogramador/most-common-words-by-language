@@ -605,10 +605,10 @@ chai-as-promised@^7.1.1:
   dependencies:
     check-error "^1.0.2"
 
-chai-subset-in-order@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.npmjs.org/chai-subset-in-order/-/chai-subset-in-order-2.1.2.tgz#f7384a451623a09d0fac03ab42ebef6ee52e38ab"
-  integrity sha1-9zhKRRYjoJ0PrAOrQuvvbuUuOKs=
+chai-subset-in-order@^2.1.3:
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/chai-subset-in-order/-/chai-subset-in-order-2.1.3.tgz#e4f8c00423221d2a2053f56b1344346973a316c4"
+  integrity sha512-qfvkD/CU6ihMNrYY6sKDTp1NDOP1yjgVA4RAYkaPA/6daXeOh3VLsG4uN9/pyrZTVjJdz7NB2MNiFijDHZ5Fww==
 
 chai-subset@^1.6.0:
   version "1.6.0"
@@ -2241,10 +2241,10 @@ mkdirp@0.5.1, mkdirp@^0.5.0, mkdirp@^0.5.1:
   dependencies:
     minimist "0.0.8"
 
-mocha@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/mocha/-/mocha-6.0.0.tgz#b558da6245a09581aa4a1c6aee9e0fa6ad0e1767"
-  integrity sha512-A7g9k3yr8oJaXn2IItFnfgjyxFc/LTe6Wwv7FczP+e8G74o9xYNSbMYmCf1ouldRojLrFcOb+z75P6Ak0GX6ug==
+mocha@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/mocha/-/mocha-6.0.1.tgz#c287da87913fa0edc4c44850ba8bc4fdbf20d3ea"
+  integrity sha512-tQzCxWqxSD6Oyg5r7Ptbev0yAMD8p+Vfh4snPFuiUsWqYj0eVYTDT2DkEY307FTj0WRlIWN9rWMMAUzRmijgVQ==
   dependencies:
     ansi-colors "3.2.3"
     browser-stdout "1.3.1"
