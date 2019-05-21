@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/oprogramador/most-common-words-by-language#readme",
   "devDependencies": {
-    "@babel/core": "^7.4.3",
+    "@babel/core": "^7.4.5",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-plugin-module-resolver": "^3.2.0",
@@ -43,9 +43,9 @@
     "dirty-chai": "^2.0.1",
     "eslint": "^5.16.0",
     "eslint-config-airbnb-improved": "^4.0.5",
-    "eslint-import-resolver-babel-module": "^5.0.1",
-    "mocha": "^6.1.2",
-    "sinon": "^7.3.1",
+    "eslint-import-resolver-babel-module": "^5.1.0",
+    "mocha": "^6.1.4",
+    "sinon": "^7.3.2",
     "sinon-as-promised": "^4.0.3",
     "sinon-chai": "^3.3.0"
   }
