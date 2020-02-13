@@ -4,19 +4,27 @@ env:
   - APP_DIR=src
 node_js:
   - 8
+  - 10
+  - 12
   - node
 script:
   - npm install
   - npm run lint
   - npm test
-before_deploy: 'npm run prepublishOnly'
-deploy:
-  provider: npm
-  api_key: $NPM_TOKEN
-  email: $NPM_EMAIL
-  on:
-    branch: master
-  skip_cleanup: true
+jobs:
+  include:
+    - stage: deploy
+      node_js: 12
+      script:
+        - npm install
+      before_deploy: 'npm run prepublishOnly'
+      deploy:
+        provider: npm
+        api_key: $NPM_TOKEN
+        email: $NPM_EMAIL
+        on:
+          branch: master
+        edge: true
 notifications:
   email:
     on_success: never
