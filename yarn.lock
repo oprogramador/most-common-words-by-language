@@ -690,10 +690,10 @@ chai-as-promised@^7.1.1:
   dependencies:
     check-error "^1.0.2"
 
-chai-subset-in-order@^2.1.3:
-  version "2.1.3"
-  resolved "https://registry.yarnpkg.com/chai-subset-in-order/-/chai-subset-in-order-2.1.3.tgz#e4f8c00423221d2a2053f56b1344346973a316c4"
-  integrity sha512-qfvkD/CU6ihMNrYY6sKDTp1NDOP1yjgVA4RAYkaPA/6daXeOh3VLsG4uN9/pyrZTVjJdz7NB2MNiFijDHZ5Fww==
+chai-subset-in-order@^2.1.4:
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/chai-subset-in-order/-/chai-subset-in-order-2.1.4.tgz#e998d7639308aeefad74b1ff4f7d8350540cfab7"
+  integrity sha512-vd8OH4tqIOurMhWKj4Xqzxy14Pb7GRWljISoyxD7cmywQxiPXIUsbJPOv9Ab5/jIzSqznUgYYUzj6bY53Y6K1g==
 
 chai-subset@^1.6.0:
   version "1.6.0"
