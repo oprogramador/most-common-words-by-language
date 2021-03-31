@@ -3,28 +3,23 @@ language: node_js
 env:
   - APP_DIR=src
 node_js:
-  - 8
   - 10
   - 12
+  - 14
   - node
 script:
-  - npm install
-  - npm run lint
-  - npm test
+  - yarn install --non-interactive
+  - yarn lint
+  - yarn test
 jobs:
   include:
     - stage: deploy
-      node_js: 12
+      on:
+        branch: master
+      node_js: 14
       script:
-        - npm install
-      before_deploy: 'npm run prepublishOnly'
-      deploy:
-        provider: npm
-        api_key: $NPM_TOKEN
-        email: $NPM_EMAIL
-        on:
-          branch: master
-        edge: true
+        - yarn install --non-interactive
+        - npx semantic-release
 notifications:
   email:
     on_success: never
