@@ -42,7 +42,7 @@
     "chai": "^4.3.4",
     "chai-as-promised": "^7.1.1",
     "chai-subset": "^1.6.0",
-    "chai-subset-in-order": "^2.2.1",
+    "chai-subset-in-order": "^3.0.0",
     "dirty-chai": "^2.0.1",
     "eslint": "^7.23.0",
     "eslint-config-airbnb-improved": "^5.0.0",
