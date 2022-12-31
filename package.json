@@ -1,6 +1,6 @@
 {
   "name": "most-common-words-by-language",
-  "version": "3.0.10",
+  "version": "3.0.11",
   "description": "List of the most common words in many languages",
   "main": "build/index.js",
   "scripts": {
