@@ -4,5 +4,7 @@
   "labels": [
     "renovate"
   ],
+  "schedule": ["after 11am on saturday"],
+  "updateNotScheduled": false,
   "rangeStrategy": "bump"
 }
