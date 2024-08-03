@@ -3,8 +3,8 @@ language: node_js
 env:
   - APP_DIR=src
 node_js:
-  - 14
-  - 16
+  - 14.21.3
+  - 16.20.2
 script:
   - yarn install --non-interactive
   - yarn lint
